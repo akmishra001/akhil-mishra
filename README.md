@@ -1,2 +1,2 @@
 # akhil-mishra
-web developer
+Student of Btech computer science
